@@ -2,3 +2,5 @@ This is the first commit to the repo.  Simple text file.
 
 Add/modify/remove a quote:
 Intensity: Give 100%.  110% is impossible.  Only idots recommend that.
+
+Hello ActiveOwl - testing github client on windows
