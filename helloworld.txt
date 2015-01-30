@@ -4,3 +4,5 @@ Add/modify/remove a quote:
 Intensity: Give 100%.  110% is impossible.  Only idiots recommend that.
 
 Hello ActiveOwl - testing github client on windows
+
+Making a new change
